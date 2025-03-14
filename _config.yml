@@ -8,5 +8,12 @@ search_enabled: true
 nav_enabled: true
 heading_anchors: true
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
 aux_links:
   Template Repository: https://github.com/bobbynin/hist-4
