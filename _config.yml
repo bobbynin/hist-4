@@ -4,5 +4,9 @@ theme: just-the-docs
 
 url: https://bobbynin.github.io/hist-4
 
+search_enabled: true
+nav_enabled: true
+heading_anchors: true
+
 aux_links:
   Template Repository: https://github.com/bobbynin/hist-4
